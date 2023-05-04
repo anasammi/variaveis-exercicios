@@ -1,6 +1,6 @@
 # Exercício 1
 
-## Parte 1
+## Parte 1zs
 Construa um programa, seguindo as instruções abaixo:
 
 **a)** Declare uma variável para armazenar um **nome**, sem atribuir um valor a essa variável.
